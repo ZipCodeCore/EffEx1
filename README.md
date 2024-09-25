@@ -21,3 +21,5 @@ for example of a simple text editor using JavaFX
 ### Steps to run:
 
 Go to source and run the main() method in SimpleTextEditor.java
+
+intro material https://docs.google.com/presentation/d/1C5tKtjj9znaEv_sfpyMveFE1vXF96kHdNIccho9c1Cg/edit?usp=sharing
