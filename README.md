@@ -1,5 +1,5 @@
 # EffEx1
-JavaFX simple example
+JavaFX simple example - needs jdk17 with JavaFX (liberica 17 FULL)
 
 Here’s a simple example of a JavaFX-based text editor window. It allows basic text editing functions with a menu bar, text area, and options to open and save text files.
 
@@ -23,3 +23,10 @@ for example of a simple text editor using JavaFX
 Go to source and run the main() method in SimpleTextEditor.java
 
 intro material https://docs.google.com/presentation/d/1C5tKtjj9znaEv_sfpyMveFE1vXF96kHdNIccho9c1Cg/edit?usp=sharing
+
+### Once You Have it Running
+
+- add an Edit menu with
+  - select all
+  - cut, copy
+  - paste
